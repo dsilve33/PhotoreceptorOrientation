@@ -6,7 +6,7 @@ The programs require high resolution images of cross-sections from fixed mouse e
 Instructions for analyzing example images:
 
 Prepare eye image for measuring photoreceptor orientations:
-1) 	Download and extract PhotoreceptorOrientation folder from GitHub at: 
+1) 	Download and extract PhotoreceptorOrientation folder from GitHub at: https://github.com/dsilve33/PhotoreceptorOrientation
 2) 	Download example images from the Open Science Framework at: https://osf.io/4kuzj/
 2) 	Open PhotoreceptorOrientation_Eye.m in Matlab.
 3) 	Enter Identifiers on Lines 20-26.
