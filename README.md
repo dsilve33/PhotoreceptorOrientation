@@ -29,6 +29,7 @@ Prepare eye image for measuring photoreceptor orientations:
 NOTE: See PhotoreceptorOrientation_Eye_Example.pdf for example figures.
 
 Measure outer segment angles:
+
 10) 	Open and Run PhotoreceptorOrientation_GenerateOuterSegmentTable.m to generate table for storing outer segment angle measurements.
 11)	Open PhotoreceptorOrientation_MeasureOuterSegmentAngles_First.m to measure first set of outer segment angles in retinal sector -3.
 		Check identifiers and enter RetinalRegion = -3 on Line 12 and then Run the program.
@@ -47,6 +48,7 @@ Measure outer segment angles:
 NOTE: 	See PhotoreceptorOrientation_MeasureOuterSegmentAngles_Example.pdf for example figures.
 
 Measure inner segment angles:
+
 21)	Open and Run PhotoreceptorOrientation_GenerateInnerSegmentTable.m to generate table for storing inner segment angle measurements.
 22)	Open PhotoreceptorOrientation_MeasureInnerSegmentAngles_First.m to measure first set of inner segment angles in retinal sector -3.
 		Check identifiers and enter RetinalRegion = -3 on Line 12 and then Run the program.
@@ -66,6 +68,7 @@ Measure inner segment angles:
 NOTE: 	See PhotoreceptorOrientation_MeasureInnerSegmentAngles_Example.pdf for example figures.
 
 Plot measured outer segment angles and inner segment angles:
+
 31) 	Open and Run PhotoreceptorOrientation_PlotMeasuredAngles.m to plot the mean +/- SD of outer segment angles (Top) and inner segment angles (Bottom).
 		The plot shows the mean and SD values from identifed rods in a single eye.
 
