@@ -1,13 +1,13 @@
-# PhotoreceptorOrientation
 Introduction:
 
-PhotoreceptorOrientation is a set of Matlab programs for measuring photoreceptor outer segment and inner segment orientations. 
+PhotoreceptorOrientation is a set of Matlab programs for measuring photoreceptor orientations relative to the approximate center of the mouse eye. 
 The programs require high resolution images of cross-sections from fixed mouse eyes.
 
 Instructions for analyzing example images:
 
 Prepare eye image for measuring photoreceptor orientations:
-1) 	Download and extract the PhotoreceptorOrientation folder.
+1) 	Download and extract PhotoreceptorOrientation folder from GitHub at: 
+2) 	Download example images from the Open Science Framework at: https://osf.io/4kuzj/
 2) 	Open PhotoreceptorOrientation_Eye.m in Matlab.
 3) 	Enter Identifiers on Lines 20-26.
 		%% Enter identifiers
